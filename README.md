@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gravity101)](https://solved.ac/gravity101)<br/>
 <!--
 **gravity101/gravity101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
